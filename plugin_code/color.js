@@ -1,5 +1,10 @@
 function(instance, properties, context) {
-    
+    ///
+
+    // modificiar a forma como será acionado
+
+
+    ///
     let elementId = properties.element_id;
     //element colors
     let bgColor = properties.bg_color;
